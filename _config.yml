@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc" or "dc")?
-carpentry: "swc"
+carpentry: ""
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Carpentries in-person Instructor Training Oslo"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: contact-us@swcarpentry.uio.no
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
